@@ -1,4 +1,7 @@
-![logo]("https://media.licdn.com/dms/image/v2/D4E16AQFRd4sez_t8uQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735839582636?e=1759968000&v=beta&t=3uAC_Ah3ZOIGUw_AVpw3C0FN6lYBSXDKn4EGq55lITk")
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFRd4sez_t8uQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735839582636?e=1759968000&v=beta&t=3uAC_Ah3ZOIGUw_AVpw3C0FN6lYBSXDKn4EGq55lITk" alt="logo" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sourav Bosu</h1>
 <h3 align="center">💻 A Computer Science and Engineering Student | Full-Stack Developer 🚀</h3>
 
