@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="logo" width="100%" />
+  <img src="https://template.canva.com/EAGJy4uB6xQ/1/0/1600w-A9ARWpzo3xk.jpg" alt="logo" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sourav Bosu</h1>
