@@ -44,15 +44,15 @@
 ---
 
 ### ☕ Support Me
-<p align="center">
+ <p align="center">
 <a href="https://www.buymeacoffee.com/SouravBosu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sourav Bosu" /></a>
-</p>
+</p> 
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sou963&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sou963&show_icons=true&theme=radical" alt="" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sou963&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sou963&show_icons=true&locale=en&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sou963&show_icons=true&locale=en&layout=compact&theme=radical" alt="" />
 </p>
