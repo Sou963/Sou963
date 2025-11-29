@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsXM9zCcEWC1Qi_bIWOmerT3IvgbikMVPQw&s" alt="logo" width="100%" />
+  <img src="" alt="logo" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sourav Bosu</h1>
