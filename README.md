@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFRd4sez_t8uQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735839582636?e=1759968000&v=beta&t=3uAC_Ah3ZOIGUw_AVpw3C0FN6lYBSXDKn4EGq55lITk" alt="logo" width="100%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsXM9zCcEWC1Qi_bIWOmerT3IvgbikMVPQw&s" alt="logo" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sourav Bosu</h1>
