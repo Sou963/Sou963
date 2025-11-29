@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://template.canva.com/EAGJy4uB6xQ/1/0/1600w-A9ARWpzo3xk.jpg" alt="logo" width="100%" />
+<p align="center"style>
+  <img src="https://template.canva.com/EAGJy4uB6xQ/1/0/1600w-A9ARWpzo3xk.jpg" alt="logo" width="7%" height="7%" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Sourav Bosu</h1>
 <h3 align="center">💻 A Computer Science and Engineering Student | Full-Stack Developer 🚀</h3>
 
