@@ -78,7 +78,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/SKOe6gQ.gif" width="100"/>
+  <img src="https://camo.githubusercontent.com/1353e8f8e51f71cb95b9ca6cfebdc5e8f3ed9560c7e055d97464fe7f1ce37dc3/68747470733a2f2f692e696d6775722e636f6d2f534b4f653667512e676966" width="100"/>
   <br><br>
   <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
   <br><br>
