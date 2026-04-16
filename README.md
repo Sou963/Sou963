@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/github/stars/Sou963?style=flat-square&labelColor=343b58&color=ff4b4b&logo=github" alt="Total Stars"/>
 </p>
 
-### My Contribution Snake (Now 100% Working!)
+### My Contribution Snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
