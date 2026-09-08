@@ -35,7 +35,7 @@ fun_fact: "Code is like humor. When you have to explain it, it's bad."
 
 <br clear="right"/>
 
-**📄 [View My Resume](https://drive.google.com/file/d/1bG1okHqcp4D2iPlVUEjbi04BMOp5LcNT/view?usp=sharing)** &nbsp;|&nbsp; **🌐 [Visit My Portfolio](http://sourav-bosu.great-site.net/)**
+**📄 [View My Resume](https://drive.google.com/file/d/1bG1okHqcp4D2iPlVUEjbi04BMOp5LcNT/view?usp=sharing)** &nbsp;|&nbsp; **🌐 [Visit My Portfolio](https://sbp.gt.tc/)**
 
 <br/>
 
