@@ -67,9 +67,9 @@ fun_fact: "Code is like humor. When you have to explain it, it's bad."
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <br/>
 
@@ -95,12 +95,6 @@ fun_fact: "Code is like humor. When you have to explain it, it's bad."
 
 </div>
 
-### My Contribution Snake 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<br>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/SouravBosu">
