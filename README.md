@@ -87,8 +87,4 @@
   <b>Star this repo if you liked my profile! </b>
 </div>
 
-## 📊 My GitHub Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sou963/Sou963/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid" />
-</p>
