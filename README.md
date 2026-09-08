@@ -76,6 +76,16 @@
     <img src="https://optimizory.com/assets/img/tech-talk-blog/teamwork.png" height="90" width="450" alt="Buy Me A Coffee" />
   </a>
 </p>
+## 📊 My GitHub Contributions
+
+<p align="center">
+  <img src="https://github.com/Sou963/Sou963/blob/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sou963&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/1353e8f8e51f71cb95b9ca6cfebdc5e8f3ed9560c7e055d97464fe7f1ce37dc3/68747470733a2f2f692e696d6775722e636f6d2f534b4f653667512e676966" width="100"/>
