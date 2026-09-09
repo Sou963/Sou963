@@ -17,32 +17,37 @@
 
 <br/>
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="340"  src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>Education:</b> Computer Science & Engineering Student</li>
+        <li>💻 <b>Role:</b> Full-Stack Web Developer</li>
+        <li>🚀 <b>Currently Working On:</b> <code>Moto_Games</code></li>
+        <li>🌱 <b>Currently Learning:</b> Next.js & Express.js</li>
+        <li>🤝 <b>Looking for help with:</b> E-commerce Projects</li>
+        <li>💬 <b>Ask Me About:</b> React, Next.js, Node.js, Express.js, PHP, MySQL, MongoDB</li>
+        <li>⚡ <b>Fun Fact:</b> <i>"Code is like humor. When you have to explain it, it's bad."</i></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
-<pre>
-name: Sourav Bosu
-role: Computer Science & Engineering Student | Full-Stack Developer
-currently_working_on: Moto_Games
-currently_learning: [Next.js, Express.js]
-looking_for_help_with: E-commerce Project
-ask_me_about: [React, Next.js, Node.js, Express.js, PHP, MySQL, MongoDB]
-portfolio: https://sbp.gt.tc/
-resume: Available on request / linked below
-fun_fact: "Code is like humor. When you have to explain it, it's bad."
-</pre>
-
-<br clear="right"/>
-
-**📄 [View My Resume](https://drive.google.com/file/d/1bG1okHqcp4D2iPlVUEjbi04BMOp5LcNT/view?usp=sharing)** &nbsp;|&nbsp; **🌐 [Visit My Portfolio](https://sbp.gt.tc/)**
-
-<br/>
+---
 
 ## 🛠️ Languages & Tools
 
+
+
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,bootstrap,tailwind,react,nextjs,nodejs,php,mysql,mongodb,flutter,firebase,git,arduino&perline=10" />
+
 </div>
 
 <br/>
