@@ -2,7 +2,7 @@
 
 <img src="https://template.canva.com/EAGJy4uB6xQ/1/0/1600w-A9ARWpzo3xk.jpg" alt="logo" width="100" style="border-radius:50%;" />
 
-<h1>Hi there, I'm Sourav Bosu 👋</h1>
+<h1>Hi there, I'm Sourav Bosu 👋,</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=560&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Flutter;Always+learning%2C+always+building." alt="Typing SVG" />
 
