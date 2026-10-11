@@ -50,13 +50,7 @@
 
 ## 📊 GitHub Stats
  
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=sou963&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Sou963?style=flat-square&labelColor=343b58&color=ff4b4b&logo=github" alt="Total Stars"/>
-</p>
+<div align="center"> <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Sou963&theme=tokyonight&hide_border=true&ring=ff4b4b&fire=ff4b4b&currStreakLabel=ff4b4b" alt="Streak" /> <br/> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sou963&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4b4b&icon_color=ff4b4b&count_private=true" alt="Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sou963&layout=compact&theme=tokyonight&hide_border=true&title_color=ff4b4b&langs_count=8" alt="Top languages" /> </div> <br/>
 
 ## 🐍 Contribution Snake
 
