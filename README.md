@@ -1,108 +1,106 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,24&height=220&section=header&text=Sourav%20Bosu&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20Student%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=58" alt="header" width="100%" />
-
-<a href="https://github.com/Sou963">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Flutter;Always+learning%2C+always+building." alt="Typing SVG" />
-</a>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,24&height=220&section=header&text=Sourav%20Bosu&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20Student%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=58" alt="header" width="100%" /> <a href="https://github.com/Sou963"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Flutter;Always+learning%2C+always+building." alt="Typing SVG" /> </a>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sourav-bosu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://fb.com/sourav.sbose.003"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="mailto:souravbosu844@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=Sou963&label=Profile%20Views&color=ff4b4b&style=for-the-badge" alt="Profile views" />
+<a href="https://linkedin.com/in/sourav-bosu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://fb.com/sourav.sbose.003"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> <a href="mailto:souravbosu844@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <img src="https://komarev.com/ghpvc/?username=Sou963&label=Profile%20Views&color=ff4b4b&style=for-the-badge" alt="Profile views" />
+
+</div> <br/>
+<h2>👨‍💻 About Me</h2>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>Education:</b> Computer Science & Engineering Student</li>
+        <li>💻 <b>Role:</b> Full-Stack Web Developer</li>
+        <li>🚀 <b>Currently Working On:</b> <code>Moto_Games</code></li>
+        <li>🌱 <b>Currently Learning:</b> Next.js & Express.js</li>
+        <li>🤝 <b>Looking for help with:</b> E-commerce Projects</li>
+        <li>💬 <b>Ask Me About:</b> React, Next.js, Node.js, Express.js, PHP, MySQL, MongoDB</li>
+        <li>⚡ <b>Fun Fact:</b> <i>"Code is like humor. When you have to explain it, it's bad."</i></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Languages & Tools
+
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,bootstrap,tailwind,react,nextjs,nodejs,php,mysql,mongodb,flutter,firebase,git,arduino&perline=10" />
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
-
-I'm a Computer Science & Engineering student who loves turning ideas into real, working products. I build full-stack web apps and enjoy learning new tools by shipping projects with them.
-
-| | |
-|---|---|
-| 🎓 **Education** | Computer Science & Engineering |
-| 💻 **Role** | Full-Stack Web Developer |
-| 🚀 **Building** | `Moto_Games` |
-| 🌱 **Learning** | Next.js & Express.js |
-| 🤝 **Looking for help with** | E-commerce projects |
-| 💬 **Ask me about** | React, Next.js, Node.js, Express.js, PHP, MySQL, MongoDB |
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<br/>
-
-## 🛠️ Tech Stack
+## 🏆 GitHub Achievements
 
 <div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,php,html,css&perline=8" alt="Languages" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter&perline=8" alt="Frontend" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&perline=8" alt="Backend" />
-
-**Tools & Hardware**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&perline=8" alt="Tools" />
-
+<img src="https://github-trophies.vercel.app/?username=Sou963&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
 <br/>
 
 ## 📊 GitHub Stats
+ 
+<p align="center">
+ <img src="https://streak-stats.demolab.com?user=sou963&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Sou963&theme=tokyonight&hide_border=true&ring=ff4b4b&fire=ff4b4b&currStreakLabel=ff4b4b" alt="Streak" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sou963&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4b4b&icon_color=ff4b4b&count_private=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sou963&layout=compact&theme=tokyonight&hide_border=true&title_color=ff4b4b&langs_count=8" alt="Top languages" />
-
-</div>
-
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sou963&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" />
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Sou963?style=flat-square&labelColor=343b58&color=ff4b4b&logo=github" alt="Total Stars"/>
+</p>
 
 ## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<br/>
+
+## ☕ Support Me
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sou963/Sou963/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<a href="https://www.buymeacoffee.com/SouravBosu">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+</a>
 </div>
 
 <br/>
 
-## 📫 Let's Connect
-
-I'm open to collaborations, freelance work, and internships. If you have an idea, say hi!
-
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/SouravBosu">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
+```
+"Code is like humor. When you have to explain it, it's bad." — Cory House
+```
 
-<br/><br/>
+⭐ **If you like what you see, drop a star on this profile — it means a lot!**
 
-⭐ **If you like what you see, drop a star. It means a lot!**
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="1" height="1" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,24&height=120&section=footer" alt="footer" width="100%" />
+</div>
 
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/SouravBosu">
+    <img src="https://optimizory.com/assets/img/tech-talk-blog/teamwork.png" height="90" width="450" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/1353e8f8e51f71cb95b9ca6cfebdc5e8f3ed9560c7e055d97464fe7f1ce37dc3/68747470733a2f2f692e696d6775722e636f6d2f534b4f653667512e676966" width="100"/>
+  <br><br>
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+  <br><br>
+  <b>Star this repo if you liked my profile! </b>
 </div>
